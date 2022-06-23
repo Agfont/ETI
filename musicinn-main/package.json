@@ -1,0 +1,27 @@
+{
+  "name": "musicinn",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.3",
+    "feather-icons-react": "^0.4.1",
+    "moment": "^2.29.1",
+    "mongodb": "^3.6.3",
+    "next": "^12.1.6",
+    "next-auth": "^3.1.0",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-bootstrap-range-slider": "^2.0.2",
+    "react-datepicker": "^3.3.0",
+    "react-dom": "^17.0.1",
+    "react-iframe": "^1.8.0",
+    "react-moment": "^1.0.0",
+    "react-time-picker": "^4.1.1"
+  }
+}
